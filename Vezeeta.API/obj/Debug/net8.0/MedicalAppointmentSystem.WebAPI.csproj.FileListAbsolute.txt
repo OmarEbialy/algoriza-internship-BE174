@@ -1,0 +1,6 @@
+C:\Users\Laptop Store\Downloads\algoriza-internship-BE26-main\algoriza-internship-BE26-main\MedicalAppointmentSystem.WebAPI\obj\Debug\net8.0\MedicalAppointmentSystem.WebAPI.csproj.AssemblyReference.cache
+C:\Users\Laptop Store\Downloads\algoriza-internship-BE26-main\algoriza-internship-BE26-main\MedicalAppointmentSystem.WebAPI\obj\Debug\net8.0\MedicalAppointmentSystem.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laptop Store\Downloads\algoriza-internship-BE26-main\algoriza-internship-BE26-main\MedicalAppointmentSystem.WebAPI\obj\Debug\net8.0\MedicalAppointmentSystem.WebAPI.AssemblyInfoInputs.cache
+C:\Users\Laptop Store\Downloads\algoriza-internship-BE26-main\algoriza-internship-BE26-main\MedicalAppointmentSystem.WebAPI\obj\Debug\net8.0\MedicalAppointmentSystem.WebAPI.AssemblyInfo.cs
+C:\Users\Laptop Store\Downloads\algoriza-internship-BE26-main\algoriza-internship-BE26-main\MedicalAppointmentSystem.WebAPI\obj\Debug\net8.0\MedicalAppointmentSystem.WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\Laptop Store\Downloads\algoriza-internship-BE26-main\algoriza-internship-BE26-main\MedicalAppointmentSystem.WebAPI\obj\Debug\net8.0\MedicalAppointmentSystem.WebAPI.MvcApplicationPartsAssemblyInfo.cache
